@@ -1,17 +1,17 @@
 # Syracuse-Housing-Database---Database-Management-Systems
 
-Project Summary:
+## Project Summary:
 
 In order to buy, rent or sell the property, customers have to rely on the property dealers for getting them the best prices or visit different websites, which in turn affects their decisions. However, all these do not provide them on the spot comparison or user reviews. Even student face a hard time while finding apartments if they are coming to a new country or city for studies. The proposed Information system would be a database, where the customers will be able to view property. The suggested database will include information about houses, localities, landlords, user reviews and comparison of various property retail websites. Since everything is online these days, it will turn out to be an easy option for the customers as it will save time and money. This would give the customer all the potential houses along with the prices offered by different websites and amenities present in the apartment. The target audience would be people who are potential buyers and leasers, viewing property for future transactions.
 
-Business Rules:
+## Business Rules:
 All the property retail websites are limited to Syracuse.
 The value of the property is in terms of dollars.
 Every property must have only one landlord.
 A landlord can own zero or multiple properties.
 Every property retail website has at least one property to display.
 
-Entities:
+## Entities:
 1)	Users – Different type of users like students and buyers who view the property
 2)	Student – Students who view the property for leasing in the future
 3)	Buyer – Students who view the property for leasing in the future
@@ -25,10 +25,10 @@ Entities:
 11)	Display – Associative entity between RetailWebsite and Property to show the details about the property on a particular website
 12)	Review – Details regarding the review of the property
 
-Database Infrastructure:
+## Database Infrastructure:
 The database system infrastructure used is based on a client-server model. SQL Server is used as the database engine and Access is used as the interface design tool. Data is inserted, deleted, updated, and queried from the SQL Server database with the help of forms on Access. Useful data stored on the SQL Server database can also be viewed with the help of reports generated through Access.
 
-Business Questions:
+## Business Questions:
 ---What percentage of users are students and buyers---
 ---What percentage of Users are male and female---
 ---What is the age range of students---
