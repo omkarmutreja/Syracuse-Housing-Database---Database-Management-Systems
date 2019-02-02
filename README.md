@@ -29,20 +29,20 @@ Every property retail website has at least one property to display.
 The database system infrastructure used is based on a client-server model. SQL Server is used as the database engine and Access is used as the interface design tool. Data is inserted, deleted, updated, and queried from the SQL Server database with the help of forms on Access. Useful data stored on the SQL Server database can also be viewed with the help of reports generated through Access.
 
 ## Business Questions:
----What percentage of users are students and buyers---
----What percentage of Users are male and female---
----What is the age range of students---
----What perentage of properties does each website display?---
----What is the average rating of each website---
----What percentage of property is for renting and buying---
----What are the total number of rental properties in different rent range---
----What are the total number of sale properties in different price range---
----Which is most expensive Rental property and Property for Sale in the entire database---
----Which is least expensive expensive Rental property and Property for Sale in the entire database---
----What is the street wise rating of different Rental properties and how many rental properties are there on a single street--
----What is the street wise rating of different Sale properties and how many Sale properties are there on a single street---
----Which feature is present in most houses---
----What are the total number of distinct features present in all the properties---
+1) What percentage of users are students and buyers
+2) What percentage of Users are male and female
+3) What is the age range of students
+4) What perentage of properties does each website display?
+5) What is the average rating of each website
+6) What percentage of property is for renting and buying
+7) What are the total number of rental properties in different rent range
+8) What are the total number of sale properties in different price range
+9) Which is most expensive Rental property and Property for Sale in the entire database
+10) Which is least expensive expensive Rental property and Property for Sale in the entire database
+11) What is the street wise rating of different Rental properties and how many rental properties are there on a single street
+12) What is the street wise rating of different Sale properties and how many Sale properties are there on a single street
+13) Which feature is present in most houses
+14) What are the total number of distinct features present in all the properties
 
 
 
